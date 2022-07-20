@@ -1,0 +1,7 @@
+Added Component: Designator=DC05(DC-005 - duplicate)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+12 Pin=DC05-1
+Added Pin To Net: NetName=GND Pin=DC05-2
+Added Pin To Net: NetName=GND Pin=DC05-3
+Added Member To Class: ClassName=Лузм Member=Component DC05
+Added Room: Name=Лузм
